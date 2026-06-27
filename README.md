@@ -35,6 +35,11 @@ This project utilizes Python to perform a data-driven analysis of global job mar
 Note: The source execution environment can be viewed directly via Google Colab:
 https://colab.research.google.com/drive/185DDtezxhR9lVeyDE9-TWCtri5dHBZ5K?usp=sharing
 
+
+
+
+
+
 SQL
 
 The following is a comprehensive, MBA-level executive summary designed to be appended directly to your documentation or submitted as an accompanying project brief. It frames the entire technical repository through the lens of data governance, operational risk evaluation, and strategic business analytics.
@@ -106,8 +111,10 @@ Execution Interface: pandasql Engine via Python Virtual Environment
 Primary Relational Elements: Common Table Expressions (CTEs), Analytical Windowing Operators (PARTITION BY), Moving Frame Boundaries, and Modular Ingestion Strings.
 
 
-
-
+---
+Note: 
+The source execution environment can be viewed directly via Google Colab:
+https://colab.research.google.com/drive/1AzK85TDiHx5dkkYtAPAwrAgxd9X53h2N#scrollTo=hInI4qV_CJ1_
 
 
 
